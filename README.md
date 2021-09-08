@@ -1,7 +1,4 @@
-  
-# "World Happiness Report 2021"
-
-
+ 
 # What makes people in a country happy?
 
 ## Task 
