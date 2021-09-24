@@ -6,7 +6,7 @@ Create a model that accurately predicts the happiness of countries around the wo
 
 
 ## Data Source 
-[World Happiness Report 2021] (https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
+#### [World Happiness Report 2021](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
 
 
 ## Data Context
