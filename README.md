@@ -6,16 +6,14 @@ Create a model that accurately predicts the happiness of countries around the wo
 
 
 ## Data Source 
-World Happiness Report 2021
-
-<https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021>
+[World Happiness Report 2021] (https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
 
 
-## Context
+## Data Context
 The World Happiness Report is a landmark survey of the state of global happiness. The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
 
 
-## Content
+## Data Content
 The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – Economic Production, Social Support, Life Expectancy, Freedom, Absence of Corruption, and Generosity. 
 
 Although there are 20 variables in this dataset, my interest will be on 7 key variables.  
