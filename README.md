@@ -2,7 +2,7 @@
 # What makes people in a country happy?
 
 ## Task 
-Create a model that accurately predicts the happiness of countries around the world.
+Create a model that accurately predicts the happiness of countries around the world, and find the most important predictors that predicts the happiness of countries around the world. 
 
 
 ## Data Source 
